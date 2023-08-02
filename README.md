@@ -1,1 +1,1 @@
-The script for Part 2 is in the wikipediaLinkScraper package in the WikiLinkScraperTest class
+The script for Part 2 is in the src/test/java -> wikipediaLinkScraper package -> WikiLinkScraperTest class
